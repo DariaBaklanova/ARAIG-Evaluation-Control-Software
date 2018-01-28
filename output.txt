@@ -1,0 +1,56 @@
+Student:     Chloe Coleshill - 123456789
+Instructor:  Eliott Coleshill - 987654321
+Student Calibration:
+MAX = 80
+MIN = 20
+Task Name Task1
+Sim30
+     Type = Stims 
+     Location = traps
+     Intensity = 55
+     Frequency = 36
+     Duration = 6
+Sim2
+     Type = Stims 
+     Location = back
+     Intensity = 87
+     Frequency = 35
+     Duration = 10
+Sim22
+     Type = Exosceleton 
+     Intensity = 67
+     Duration = 5
+Sim15
+     Type = Stims 
+     Location = back
+     Intensity = 41
+     Frequency = 88
+     Duration = 4
+Task Name Task15
+Sim15
+     Type = Stims 
+     Location = back
+     Intensity = 41
+     Frequency = 88
+     Duration = 4
+Sim13
+     Type = Stims 
+     Location = front
+     Intensity = 63
+     Frequency = 47
+     Duration = 7
+Sim12
+     Type = Exosceleton 
+     Intensity = 7
+     Duration = 10
+Task Name Task5
+Sim32
+     Type = Exosceleton 
+     Intensity = 93
+     Duration = 0
+Sim1
+     Type = Stims 
+     Location = front
+     Intensity = 66
+     Frequency = 60
+     Duration = 0
